@@ -22,7 +22,7 @@ async function LikeTinderSemCriterio()
 {
 	for ( var i = 0 ; i < 1000 ; i++ )
 	{
-		document.getElementsByClassName('button__text Pos(r) Z(1)')[2].click();
+		document.getElementsByClassName('button__text Pos(r) Z(1)')[3].click();
 		await sleep(1000);
 	}
 }
